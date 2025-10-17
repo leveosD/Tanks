@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 705adff7d33e74c49bb3f7d53b3ca4b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 110
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 0
+  fontNames:
+  - PixelFont
+  fallbackFontReferences: []
+  customCharacters: ' :NKBLSTARCOEGMZFVUXPHIYD0123456789'
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

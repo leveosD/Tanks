@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74bf45212fde2bc45a13daee6f445ff7, type: 3}
+  m_Name: Rus
+  m_EditorClassIdentifier: 
+  _id: ru
+  _title: "\u0422\u0410\u041D\u041A\u041E\u0412\u042B\u0415 \u0411\u0418\u0422\u0412\u042B"
+  _start: "\u0418\u0413\u0420\u0410\u0422\u042C"
+  _score: "\u0421\u0427\u0401\u0422"
+  _record: "\u0420\u0415\u041A\u041E\u0420\u0414"
+  _gameover: "\u0418\u0413\u0420\u0410  \u041E\u041A\u041E\u041D\u0427\u0415\u041D\u0410"
+  _thanks: "\u041E\u0421\u041E\u0411\u0410\u042F \u0411\u041B\u0410\u0413\u041E\u0414\u0410\u0420\u041D\u041E\u0421\u0422\u042C"
+  _graphics: "\u0413\u0420\u0410\u0424\u0418\u041A\u0410"
+  _code: "\u041A\u041E\u0414"
+  _music: "\u041C\u0423\u0417\u042B\u041A\u0410 \u0418 \u0417\u0412\u0423\u041A\u0418"
+  _tap: "\u041D\u0410\u0416\u041C\u0418\u0422\u0415, \u0427\u0422\u041E\u0411\u042B
+    \u0412\u0415\u0420\u041D\u0423\u0422\u042C\u0421\u042F \u0412 \u041C\u0415\u041D\u042E"
+  _stage: "\u0421\u0422\u0410\u0414\u0418\u042F"
+  _flagSprite: {fileID: 21300000, guid: ef3dd6e872288ea419a446acd566e1d0, type: 3}
+  _authText: "\u0425\u041E\u0422\u0418\u0422\u0415 \u0412\u041E\u0419\u0422\u0418
+    \u0412 \u0410\u041A\u041A\u0410\u0423\u041D\u0422? \u042D\u0422\u041E \u041F\u041E\u0417\u0412\u041E\u041B\u0418\u0422
+    \u041D\u0410\u041C \u0421\u041E\u0425\u0420\u0410\u041D\u042F\u0422\u042C \u0412\u0410\u0428
+    \u0420\u0415\u041A\u041E\u0420\u0414."
+  _yes: "\u0414\u0410"
+  _no: "\u041D\u0415\u0422"
+  _error: "\u0418\u0417\u0412\u0418\u041D\u0418\u0422\u0415, \u0427\u0422\u041E-\u0422\u041E
+    \u041F\u041E\u0428\u041B\u041E \u041D\u0415 \u0422\u0410\u041A"

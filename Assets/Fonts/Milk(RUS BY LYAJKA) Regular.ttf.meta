@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d98446f347a0ee24b9db43c3783d6c5c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 110
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lemon/Milk(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: "? :-.\u041F\u0428\u0411\u0413\u0418\u042D\u042F\u0425\u0419\u041B\u0424\u041C\u0423\u0417\u042E\u042B\u0412\u041D\u0421\u0422\u0410\u0420\u042C\u0427\u0401\u0415\u041A\u041E\u04140123456789"
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
